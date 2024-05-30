@@ -1,0 +1,5 @@
+base\BaseTest.class
+page\SwagLabs_Page.class
+page\Login_Page.class
+practice\Hit_Trail.class
+test\SwagLabs_Test.class
