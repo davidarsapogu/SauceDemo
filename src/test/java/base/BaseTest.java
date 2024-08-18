@@ -5,8 +5,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
-import page.Login_Page;
-import page.SwagLabs_Page;
+import pages.Login_Page;
+import pages.SwagLabs_Page;
 
 public class BaseTest {
 	

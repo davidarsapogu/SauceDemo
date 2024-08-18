@@ -1,4 +1,4 @@
-package page;
+package pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -20,7 +20,6 @@ public class SwagLabs_Page {
 	
 	@FindBy(xpath = "//select[@class='product_sort_container']")
 	WebElement NameAtoZDropdown;
-	
 	
 	public void selectAtoZdropdown() {
 		NameAtoZDropdown.click();
